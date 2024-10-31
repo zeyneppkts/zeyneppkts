@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeyneppkts
 - 👀 I’m interested in Reading, Yoga and Knitting
-- 🌱 I’m currently learning Web Development and Algorithms
+- 🌱 I’m currently learning React.js and Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zeyneppkts28@gmail.com
 - 😄 Pronouns: she/her
