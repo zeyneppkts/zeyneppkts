@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Object Oriented Programming on Java
 - 📫 How to reach me zeyneppkts28@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a big fan of cats
 
 <!---
 zeyneppkts/zeyneppkts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
