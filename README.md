@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeyneppkts
 - 👀 I’m interested in Reading, Yoga and Knitting
 - 🌱 I’m currently learning Object Oriented Programming on Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zeyneppkts28@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a big fan of cats
